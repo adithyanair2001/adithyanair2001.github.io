@@ -4,7 +4,7 @@
 
   a {
     color: blue;/* set the text color to blue here */
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    text-decoration: underline; /* This means we will have a hyperlinks to be underlined */
   }
 
   a:hover {
@@ -27,6 +27,7 @@
   h1 {
     margin-bottom: 0.5rem;
     margin-top: 3rem;
+    padding: 10px 5px 10px 5px;
    }
 
   h2 {
@@ -43,6 +44,7 @@
   h4 {
     margin-bottom: 1rem;
     margin-top: 0.5rem;
+    padding : 2px 2px 2px 2px; 
   }
 
   h5 {
